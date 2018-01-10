@@ -1,0 +1,11 @@
+{
+	"userlogin":{
+		"status": 1,
+		"errorCode":0,
+		"errorMsg":"登陆成功",
+		"msg":{
+			"userName":"adminnnnnn",
+			"password":"123456"
+		}
+	}
+}
